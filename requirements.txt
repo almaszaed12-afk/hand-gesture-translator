@@ -1,5 +1,3 @@
 streamlit
-opencv-python
+opencv-python -head1ess
 mediapipe
-gtts
-numpy
